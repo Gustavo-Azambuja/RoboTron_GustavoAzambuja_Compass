@@ -10,3 +10,4 @@ if inicial < final:
 else:
     duracao = (24 - inicial) + final
 print('O JOGO DUROU {} HORA(S)'.format(duracao))
+#calculo pego na internet
