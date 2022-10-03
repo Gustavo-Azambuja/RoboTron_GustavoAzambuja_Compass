@@ -6,3 +6,4 @@ elif x <= 12:
     print("Você é uma criança")
 else:
     print("Você é um adolescente")
+#José me ajudou nessa
