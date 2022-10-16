@@ -9,7 +9,7 @@ Robot Framework: Com o python instalado e o pip instalado digite o seguinte coma
 
 pip install robotframework
 
-#Libraries utilizadas:
+# Libraries utilizadas:
 
 Browser Library
 
